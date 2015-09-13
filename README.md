@@ -7,3 +7,7 @@
 This is a new app for reading and sharing books in all of your own devices. This app can save and sync your ebooks and your furthest page read.
 
 The iOS version is being developed first.
+
+calculator目录下是一个学习测试的app，可以忽略
+
+Please ignore the directory named calculator 
